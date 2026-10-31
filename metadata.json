@@ -1,0 +1,6 @@
+{
+  "name": "Meu Controle",
+  "description": "Aplicativo de gerenciamento de dívidas pessoais para organizar, acompanhar e quitar pendências financeiras com transparência e privacidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
